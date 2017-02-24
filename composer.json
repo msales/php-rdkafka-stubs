@@ -1,0 +1,5 @@
+{
+    "name": "msales/php-rdkafka-stubs",
+    "description": "Clone of kwn/php-rdkafka-stubs",
+    "license": "MIT"
+}
